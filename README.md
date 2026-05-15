@@ -32,7 +32,7 @@ I am making a cool micro pad for myself it has 8 key switches, one rotor encoder
 |-----|------------------|------|-------------|
 
 | 10 | Kailh Hot-Swap Switch Sockets + shipping | 	https://neomacro.in/products/kailh-mx-hotswap-socket?variant=49467139227926 | 2.33 |
-| 1 | PCB Fabrication + 3D Print + Shipping | https://jlcpcb.com | 16.94 |
+
 
 
 
