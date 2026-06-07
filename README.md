@@ -30,20 +30,9 @@ I am making a cool micro pad for myself it has 8 key switches, one rotor encoder
 
 | Qty | Part Description | Link | Cost (USD) |
 |-----|------------------|------|-------------|
-| 1(pack of 10) | Kailh Hot-Swap Switch Sockets + shipping | 	https://neomacro.in/products/kailh-mx-hotswap-socket?variant=49467139227926 | 2.33 |
-| 1 | PCB Fabrication + 3D Print + Shipping | https://jlcpcb.com | 20.27 |
+| 1(pack of 10) + shipping | Kailh Hot-Swap Switch Sockets + shipping | 	https://neomacro.in/products/kailh-mx-hotswap-socket?variant=49467139227926 | 2.33 |
+| 1 | PCB Fabrication + 3D Print + Shipping | https://jlcpcb.com | 9.65 |
 
 
 
-
-# Total Project Cost
-
-| Category | Cost (USD) |
-|----------|-------------|
-| Components Purchased | 2.34 |
-| PCB + 3D Print + Shipping | 16.94 |
-| **Grand Total** | **19.28 USD** |
-
-
-
-## Final Total: **$19.28 USD**
+## Final Total: **$11.99 USD**
